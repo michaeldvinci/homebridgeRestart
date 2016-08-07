@@ -2,8 +2,8 @@
 Just for you, Derek -- make the files yourself, lol
 
 
-# Set up a cronjob to run every 2 hrs, or every [x] number of hours yo uwant, so it's at least 
-# automated?? I don't know how you want it timed
+Set up a cronjob to run every 2 hrs, or every [x] number of hours yo uwant, so it's at least 
+automated?? I don't know how you want it timed
 
 # Every two hours:
 0 */2 * * *  /home/username/hbReboot.sh
